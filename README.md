@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Studing at **University of La Laguna** Computer Science <br>🌱 I’m currently learning ts, node <br>👨🏻‍💻 Hey, check my brand new project :  [**TheLinkPlaza**](https://thelinkplaza.netlify.app/)    or  check the repo [**here**](https://github.com/alu0101540153/LinkPlaza_FrontendDeploy) <br>📖 Now working on LibroShelf (personal project)  <br>👨🏻‍🎓 This is my college account.
+🖥️ Studing at **University of La Laguna** Computer Science <br>🌱 I’m currently learning ts, node <br>👨🏻‍💻 Hey, check my brand new project :  [**TheLinkPlaza**](https://thelinkplaza.netlify.app/)    or  check the repo [**here**](https://github.com/alu0101540153/LinkPlaza_FrontendDeploy)  <br>👨🏻‍🎓 This is my college account.
 
 
 ## 🌐 Socials:
