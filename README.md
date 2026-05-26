@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Studing at University of La Laguna Computer Science<br>🌱 I’m currently learning java spring boot and vuejs<br>👨🏻‍💻 Hey, check my brand new project :  [**TheLinkPlaza**](https://thelinkplaza.netlify.app/)
+🖥️ Studing at University of La Laguna Computer Science<br>🌱 I’m currently learning java spring boot and vuejs
 <br>👨🏻‍🎓 This is my college account.
 
 
