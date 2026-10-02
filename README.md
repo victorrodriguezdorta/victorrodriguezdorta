@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0A192F&text=VÍCTOR%20RODRÍGUEZ%20DORTA&fontSize=48&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
-###Junior Java Backend Developer
 
+## ☕ Junior Java Backend Developer
 **Java · Spring Boot · REST APIs · Docker · PostgreSQL · AWS**
 
 <br>
