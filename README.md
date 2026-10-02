@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Víctor%20Rodríguez%20Dorta&fontSize=32&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=VÍCTOR%20RODRÍGUEZ%20DORTA&fontSize=48&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 ### ☕ Junior Java Backend Developer
 
 **Java · Spring Boot · REST APIs · Docker · PostgreSQL · AWS**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
@@ -31,14 +33,17 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 ### 🎮 PALINKO
 
-<img src="./palinko.svg" width="180" alt="PALINKO"/>
+<img src="./palinko.svg" width="150" alt="PALINKO"/>
 
 **Real-time multiplayer word game powered by AI.**
 
 `Java 21` · `Spring Boot` · `WebSocket/STOMP`
 `PostgreSQL` · `JWT` · `Docker`
 
-[🎮 Live Demo](https://palinko.onrender.com/) · [💻 Repository](https://github.com/victorrodriguezdorta/PALINKO)
+<br>
+
+[![Live Demo](https://img.shields.io/badge/🎮%20LIVE%20DEMO-6C63FF?style=for-the-badge)](https://palinko.onrender.com/)
+[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/victorrodriguezdorta/PALINKO)
 
 </td>
 
@@ -46,14 +51,16 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 ### ♻️ RouteWaste
 
-<img src="./routewaste.svg" width="180" alt="RouteWaste"/>
+<img src="./routewaste.svg" width="150" alt="RouteWaste"/>
 
 **Waste collection route planning and optimization platform.**
 
 `Java` · `Spring Boot` · `Vue` · `MongoDB`
 `Docker` · `GitHub Actions`
 
-[💻 Repository](https://github.com/victorrodriguezdorta/RouteWaste)
+<br>
+
+[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/victorrodriguezdorta/RouteWaste)
 
 </td>
 
@@ -118,8 +125,8 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 ### 📫 Open to Junior Backend / Java opportunities
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
-[![Email](https://img.shields.io/badge/Contact%20me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
+[![Email](https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
 
 <br>
 
