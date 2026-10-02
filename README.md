@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=VÍCTOR%20RODRÍGUEZ%20DORTA&fontSize=48&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://your-domain.com/api/banner?theme=liquid&text=V%C3%ADctor+Rodr%C3%ADguez+Dorta&subtitle=Junior+Java+Backend+Developer&primary=0041a8&secondary=008f1d&accent=459900&background=000000&titleFont=-apple-system%2C+BlinkMacSystemFont%2C+%27Inter%27%2C+%27Segoe+UI%27%2C+Roboto%2C+sans-serif&titleSize=96&titleWeight=700&subtitleFont=%27Fira+Code%27%2C+%27JetBrains+Mono%27%2C+Consolas%2C+monospace&subtitleSize=39&subtitleWeight=500&animationSpeed=2&blur=59&radius=64&showGlow=false&showNoise=false&blobCount=13&gooeyStrength=11&starCount=50&waveCount=3&amplitude=80&count=50" />
 
 ### Junior Java Backend Developer
 
