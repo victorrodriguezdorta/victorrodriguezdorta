@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=VÍCTOR%20RODRÍGUEZ%20DORTA&fontSize=48&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0A192F&text=VÍCTOR%20RODRÍGUEZ%20DORTA&fontSize=48&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 ### ☕ Junior Java Backend Developer
 
@@ -8,9 +8,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/victorrodriguezdorta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-176B4D?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
+[![Email](https://img.shields.io/badge/Email-176B4D?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/victorrodriguezdorta)
 
 </div>
 
@@ -42,8 +42,8 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🎮%20LIVE%20DEMO-6C63FF?style=for-the-badge)](https://palinko.onrender.com/)
-[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/victorrodriguezdorta/PALINKO)
+[![Live Demo](https://img.shields.io/badge/🎮%20LIVE%20DEMO-176B4D?style=for-the-badge)](https://palinko.onrender.com/)
+[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-0A192F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/victorrodriguezdorta/PALINKO)
 
 </td>
 
@@ -60,7 +60,7 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 <br>
 
-[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/victorrodriguezdorta/RouteWaste)
+[![Repository](https://img.shields.io/badge/💻%20REPOSITORY-0A192F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/victorrodriguezdorta/RouteWaste)
 
 </td>
 
@@ -75,33 +75,33 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![Java](https://img.shields.io/badge/Java-0A192F?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-176B4D?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-176B4D?style=flat-square\&logo=springsecurity\&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0A192F?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-176B4D?style=flat-square)
 
 **Databases & Architecture**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
-![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-333333?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-176B4D?style=flat-square\&logo=mongodb\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-0A192F?style=flat-square\&logo=hibernate\&logoColor=white)
+![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-176B4D?style=flat-square)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A192F?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-176B4D?style=flat-square\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A192F?style=flat-square\&logo=git\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-176B4D?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 
 **Testing & Frontend**
 
-![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-176B4D?style=flat-square\&logo=junit5\&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-0A192F?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-176B4D?style=flat-square\&logo=playwright\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=flat-square\&logo=typescript\&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-176B4D?style=flat-square\&logo=vuedotjs\&logoColor=white)
 
 </div>
 
@@ -125,11 +125,15 @@ Interested in **software architecture, APIs, Docker, CI/CD and cloud technologie
 
 ### 📫 Open to Junior Backend / Java opportunities
 
-[![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
-[![Email](https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/LET'S%20CONNECT-176B4D?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorrodriguezdorta/)
+[![Email](https://img.shields.io/badge/CONTACT%20ME-0A192F?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vdorta15@gmail.com)
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=victorrodriguezdorta\&icon=0\&color=0)
+<img src="./footer.gif" width="100%" alt="Animated footer"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=victorrodriguezdorta\&icon=0\&color=176B4D)
 
 </div>
